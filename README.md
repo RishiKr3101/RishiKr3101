@@ -21,7 +21,7 @@ Python || JAVA || C# <br/>
 - ⚡ GLAD YOU'RE HERE ❤️
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="cplusplus" width="40" height="40"/> 
