@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 Im Rishi Kumar, a tech enthusiast.<br/>
 Python || JAVA || C# <br/>
+<div class="tenor-gif-embed" data-postid="13277341" data-share-method="host" data-width="100%" data-aspect-ratio="1.509090909090909"><a href="https://tenor.com/view/patrick-zen-meditation-gif-13277341">Patrick Zen GIF</a> from <a href="https://tenor.com/search/patrick-gifs">Patrick GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <img align='center' src='https://tenor.com/3ScP.gif' width='200'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishiKr3101" alt="Rishi Kumar" /> </p>
 
