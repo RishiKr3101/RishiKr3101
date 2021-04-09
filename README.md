@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-I am Rishi Kumar, a 2nd year engineering student. I like to keep learning new stuff and implement them.<br/>
-Also intersted in Game Dev<br/>
+Im Rishi Kumar, a tech enthusiast.<br/>
 Python || JAVA || C# <br/>
-<img align='center' src='https://media.tenor.com/images/236c3b72a5d309b40e716635135684b0/tenor.gif' width='200"'>
+<img align='center' src='https://tenor.com/view/patrick-zen-meditation-gif-13277341' width='200"'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishiKr3101" alt="Rishi Kumar" /> </p>
 
 - 🔭 I’m currently working on - Minor Projects & GameDev ML, DJANGO, Unity
