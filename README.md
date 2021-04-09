@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 Im Rishi Kumar, a tech enthusiast.<br/>
 Python || JAVA || C# <br/>
-<img align='center' src='https://tenor.com/view/patrick-zen-meditation-gif-13277341' width='200'>
+<img align='center' src='https://tenor.com/3ScP.gif' width='200'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishiKr3101" alt="Rishi Kumar" /> </p>
 
 - 🔭 I’m currently working on - Minor Projects & GameDev ML, DJANGO, Unity
