@@ -10,14 +10,7 @@ Python || JAVA || C# <br/>
 <img align='center' src='https://media1.tenor.com/images/92d5d28b2be1097f860e3e643e3decac/tenor.gif?itemid=13277341' width='200'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishiKr3101" alt="Rishi Kumar" /> </p>
 
-- 🔭 I’m currently working on - Minor Projects & GameDev ML, DJANGO, Unity
-- 🌱 I’m currently learning - Django, PyTorch, TensorFlow, React, Blender
-- 👯 I’m looking to collaborate on - Django, Unity, TensorFlow, GUI Projects 
-- 🤔 I’m looking for help with - Tensorflow, Django
-- 💬 Ask me about - Anything. If I know, I will let you know. If I don't know, let's figure it out together!
-- 📫 How to reach me: rishikrofficial@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ GLAD YOU'RE HERE ❤️
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
