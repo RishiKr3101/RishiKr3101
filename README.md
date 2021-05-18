@@ -6,7 +6,9 @@
 Here are some ideas to get you started:
 -->
 Im Rishi Kumar, a tech enthusiast.<br/>
-Python || JAVA || C# <br/>
+~
+~
+~<br/>
 <img align='center' src='https://media1.tenor.com/images/92d5d28b2be1097f860e3e643e3decac/tenor.gif?itemid=13277341' width='200'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishiKr3101" alt="Rishi Kumar" /> </p>
 
