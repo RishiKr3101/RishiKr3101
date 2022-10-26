@@ -5,16 +5,20 @@
 
 Here are some ideas to get you started:
 -->
-<div  float="left">
-<p>
-Im Rishi Kumar, a tech enthusiast.<br/>
-~
-~
-~<br/>
-</p>
-<img align='center' src='https://media1.tenor.com/images/92d5d28b2be1097f860e3e643e3decac/tenor.gif?itemid=13277341' width='200'>
+<table>
+  <tr>
+    <td>Im Rishi Kumar, a tech enthusiast</td>
+     <td>~</td>
+     <td>~</td>
+  </tr>
+  <tr>
+    <td valign="top"><img align='center' src='https://media1.tenor.com/images/92d5d28b2be1097f860e3e643e3decac/tenor.gif?itemid=13277341' width='200'></td>
+    
+  </tr>
+ </table>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishiKr3101" alt="Rishi Kumar" /> </p>
-</div>
+
 
 
 
